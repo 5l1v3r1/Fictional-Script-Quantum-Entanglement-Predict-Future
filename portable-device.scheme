@@ -1,0 +1,41 @@
+ ________________________________________________________________________
+|                                                                        |
+|                           Quantum Computing Device                      |
+|________________________________________________________________________|
+|                                                                        |
+| Quantum Registers:                                                     |
+|   - [ Q0 ] [ Q1 ] [ Q2 ] [ Q3 ] [ Q4 ] [ Q5 ] [ Q6 ] [ Q7 ] [ Q8 ] [ Q9 ]|
+|   - [ Q10 ] [ Q11 ] [ Q12 ] [ Q13 ] [ Q14 ] [ Q15 ] [ Q16 ] [ Q17 ] ...  |
+|                                                                        |
+| Quantum Gates:                                                         |
+|   - Hadamard, CNOT, X, Y, Z, T, S, RX, RY, RZ, Custom Gates, ...        |
+|                                                                        |
+| Measurement & Controls:                                                |
+|   - Measurement Unit, Control Buttons, LED Display, Interaction Panel   |
+|                                                                        |
+|                         __________________________                     |
+|                        |                          |                    |
+|                        |     Quantum Circuit     |                    |
+|                        |__________________________|                    |
+|                                                                        |
+| User Interface:                                                        |
+|   - [ Start Simulation ] [ Run on Actual Quantum Device ]              |
+|   - [ Visualize Results ] [ Save Results ] [ Reset Circuit ]            |
+|                                                                        |
+|                                                                        |
+|             _______________________________________________            |
+|            |                                               |           |
+|            |                 Script Execution               |           |
+|            |                                               |           |
+|            | 1. Script loads Quantum Circuit configuration   |           |
+|            |                                               |           |
+|            | 2. Quantum Gates and operations are applied     |           |
+|            |                                               |           |
+|            | 3. Measurement is performed, and results are    |           |
+|            |    displayed on the LED display                |           |
+|            |                                               |           |
+|            | 4. Optionally, results can be visualized or     |           |
+|            |    saved for analysis                          |           |
+|            |_______________________________________________|           |
+|________________________________________________________________________|
+
