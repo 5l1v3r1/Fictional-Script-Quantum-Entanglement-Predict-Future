@@ -53,6 +53,3 @@ Contributions to enhance or expand the fictional scripts in a creative and imagi
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to further customize this README to suit your repository's needs. If there's any additional information you'd like to include or modify, please do so accordingly.
